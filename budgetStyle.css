@@ -1,0 +1,125 @@
+h1 {
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+}
+
+body, html {
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-variant: normal;
+font-weight: 400;
+line-height: 20px;
+margin-bottom: 0px;
+overflow: hidden; 
+}
+
+.header {
+margin-bottom: 5px; 
+padding-bottom: 25px; 
+}
+
+.h1 {
+margin: 0px; 
+display: inline;
+float: left; 
+}
+
+.welcome {
+float: right;
+}
+
+.navigate {
+width: 185px; 
+height: 100%;
+background-color:#d9d9d9;
+vertical-align:middle;
+margin-right: 5px; 
+float: left; 
+overflow: hidden;  
+}
+
+.sidebar {
+padding:5px; 
+}
+
+.sidebar:hover {
+background-color:#828282;
+color:white; 
+}
+
+.editButton {
+width:100%; 
+}
+
+.navSelect {
+width: auto;
+height: 95%; 
+overflow: hidden; 
+}
+
+.noFundsCreate {
+background-color:#D3D3D3; 
+}
+
+.editList {
+	font-size: medium; 
+	font-weight: bold; 
+	border: 0px; 
+	outline: 0px; 
+	width: 100%; 
+}
+
+.budgetTable {
+	width: 500px; 
+}
+
+.fundsTable { 
+	width: 530px; 
+}
+
+.createTable {
+	width: 390px; 
+}
+
+.createSubTable {
+	width: 353px; 
+}
+
+.transferTable {
+	width: 300px; 
+	margin-bottom: 2px; 
+}
+
+.budgetList {
+	margin-bottom: 3px; 
+}
+
+.delete { 
+margin-left: auto; 
+margin-right: auto; 
+width: 100%; 
+color: transparent;
+}
+
+#entroP {
+	margin-top: 0px;
+}
+
+#deleteButton {
+	margin-top: 3px; 
+}
+
+#editBox {
+width: 100%;
+}
+
+#home {
+overflow-y: scroll; 
+}
+.welcomeText {
+width: 600px; 
+}
